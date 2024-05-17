@@ -28,9 +28,8 @@ End the program.
 
 ## Program:
 ```py
-Developed By   : A joans jay authers
-Register Number: 212221240019
-
+Developed By   : thamaraiselvan v
+Register Number: 212221230115
 ```
 ### 1. Smoothing Filters
 
